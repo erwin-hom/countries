@@ -25,6 +25,7 @@ zh:
   KH: '柬埔寨'
 zh_cn:
   KH: '柬埔寨'
+  MK: "北马其顿共和国"
 fa:
   IR: "ایران"
 he:
@@ -32,3 +33,45 @@ he:
   VI: "איי הבתולה (ארה)"
 sv:
   GB: "Storbritannien"
+cs:
+  MK: "Severní Makedonie, Republika"
+da:
+  MK: "Nordmakedonien, Republikken"
+de:
+  MK: "Nordmazedonien, Republik"
+en:
+  MK: "North Macedonia, Republic of"
+es:
+  MK: "Macedonia del Norte, República de"
+fi:
+  MK: "Pohjois-Makedonian tasavalta"
+fr:
+  MK: "Macédoine du Nord, République de"
+hu:
+  MK: "Észak-macedón Köztársaság"
+it:
+  MK: "Macedonia del Nord, Repubblica della"
+ja:
+  MK: "北マケドニア、共和国"
+ko:
+  MK: "북마케도니아 공화국"
+nl: 
+  MK: "Noord-Macedonië, Republiek"
+nb:
+  MK: "Nord-Makedonia, Republikken"
+pl:
+  MK: "Macedonia Północna"
+pt_br:
+  MK: "Macedônia do Norte, República da"
+ru:
+  MK: "Северная Македония, Республика"
+sv:
+  MK: "Nordmakedonien, republiken"
+th:
+  MK: "นอร์ทมาซิโดเนีย สาธารณรัฐ"
+tr:
+  MK: "Kuzey Makedonya Cumhuriyeti"
+vi:
+  MK: "Cộng hòa Bắc Macedonia"
+zh_tw:
+  MK: "北馬其頓共和國"
