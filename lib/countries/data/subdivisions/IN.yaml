@@ -482,10 +482,10 @@ CT:
     max_latitude: 24.1187091
     max_longitude: 84.39599799999999
   name: Chhattisgarh
-DD:
-  unofficial_names: Daman and Diu
+DH:
+  unofficial_names: Dadra and Nagar Haveli and Daman and Diu
   translations:
-    en: Daman and Diu
+    en: Dadra and Nagar Haveli and Daman and Diu
     ar: دمن وديو
     be: Даман і Дыу
     bg: Даман и Диу
@@ -545,7 +545,7 @@ DD:
     min_longitude: 70.8734812
     max_latitude: 20.743124
     max_longitude: 72.9067969
-  name: Daman and Diu
+  name: Dadra and Nagar Haveli and Daman and Diu
 DL:
   unofficial_names: Delhi
   translations:
@@ -621,71 +621,6 @@ DL:
     max_latitude: 28.889816
     max_longitude: 77.3418147
   name: Delhi
-DN:
-  unofficial_names: Dadra and Nagar Haveli
-  translations:
-    en: Dadra and Nagar Haveli
-    ar: دادرا وناجار هافلي
-    be: Дадра і Нагархавелі
-    bg: Дадра и Нагар Хавели
-    bn: দাদরা ও নগর হাভেলি
-    ca: Dadra i Nagar Haveli
-    cs: Dádra a Nágar Havélí
-    da: Dadra og Nagar Haveli
-    de: Dadra und Nagar Haveli
-    el: Ντάντρα και Ναγκάρ Χαβέλι
-    es: Dadra y Nagar Haveli
-    et: Dadra ja Nagar Haveli
-    eu: Dadra eta Nagar Haveli
-    fa: دادرا و ناگار هاولی
-    fi: Dadra ja Nagar Haveli
-    fr: Dadra et Nagar Haveli
-    gl: Dadra e Nagar Haveli
-    gu: દાદરા અને નગરહવેલી
-    he: דאדרה ונאגר הבלי
-    hi: दादर और नागर हवेली
-    hr: Dadra i Nagar Haveli
-    hu: Dadra és Nagar Haveli
-    id: Dadra dan Nagar Haveli
-    is: Dadra og Nagar Haveli
-    it: Dadra e Nagar Haveli
-    ja: ダードラー及びナガル・ハヴェーリー連邦直轄領
-    ka: დადრა და ნაგარ-ჰაველი
-    kn: ದಾದ್ರ ಮತ್ತು ನಗರ್ ಹವೆಲಿ
-    ko: 다드라 나가르하벨리
-    lt: Dadra ir Nagar Havelis
-    lv: Dādra un Nagarhaveli
-    ml: ദാദ്ര, നഗർ ഹവേലി
-    mr: दादरा आणि नगर-हवेली
-    ms: Dadra dan Nagar Haveli
-    nb: Dadra og Nagar Haveli
-    ne: दादरा र नगर हवेली
-    nl: Dadra en Nagar Haveli
-    or: ଦାଦ୍ରା ଓ ନଗର ହବେଳୀ
-    pl: Dadra i Nagarhaweli
-    pt: Dadrá e Nagar-Aveli
-    ro: Dadra și Nagar Haveli
-    ru: Дадра и Нагар-Хавели
-    si: දඩ්රා සග නගර් හවේලි
-    sk: Dádra a Nagar Havelí
-    sr: Дадра и Нагар Хавели
-    sv: Dadra och Nagar Haveli
-    sw: Dadra na Nagar Haveli
-    ta: தாத்ரா மற்றும் நகர் அவேலி
-    te: దాద్రా నగరు హవేలీ
-    th: ดาดราและนครหเวลี
-    tr: Dadra ve Nagar Haveli
-    uk: Дадра і Нагар-Хавелі
-    ur: دادرا و نگر حویلی
-    vi: Dadra và Nagar Haveli
-  geo:
-    latitude: 20.1808672
-    longitude: 73.0169135
-    min_latitude: 20.052287
-    min_longitude: 72.921629
-    max_latitude: 20.3625029
-    max_longitude: 73.2258921
-  name: Dadra and Nagar Haveli
 GA:
   unofficial_names: Goa
   translations:
@@ -1241,6 +1176,11 @@ KL:
     max_latitude: 12.7883001
     max_longitude: 77.3956369
   name: Kerala
+LA:
+  unofficial_names: Ladakh
+  translations:
+    en: Ladakh
+  name: Ladakh
 LD:
   unofficial_names:
   - Laccadive
@@ -2203,30 +2143,6 @@ TR:
     max_latitude: 24.533733
     max_longitude: 92.336001
   name: Tripura
-TS:
-  unofficial_names: Telangana
-  translations:
-    en: Telangana
-  geo:
-    latitude: 18.1124372
-    longitude: 79.01929969999999
-    min_latitude: 15.83535
-    min_longitude: 77.23791299999999
-    max_latitude: 19.916715
-    max_longitude: 81.3075465
-  name: Telangana
-UL:
-  unofficial_names: Uttaranchal
-  translations:
-    en: Uttaranchal
-  geo:
-    latitude: 30.066753
-    longitude: 79.01929969999999
-    min_latitude: 28.710125
-    min_longitude: 77.57860889999999
-    max_latitude: 31.45461499999999
-    max_longitude: 81.05566379999999
-  name: Uttaranchal
 UP:
   unofficial_names: Uttar Pradesh
   translations:
@@ -2370,6 +2286,7 @@ WB:
     max_longitude: 89.880039
   name: West Bengal
 TG:
+  unofficial_names: Telangana
   translations:
     ar: تيلانغانا
     as: তেলেংগানা
@@ -2421,7 +2338,9 @@ TG:
     uk: Телангана
     ur: تیلنگانا
     vi: Telangana
+  name: Telangana
 UT:
+  unofficial_names :Uttarakhand
   translations:
     ar: أوتاراخند
     as: উত্তৰাখণ্ড
@@ -2479,3 +2398,4 @@ UT:
     uk: Уттаракханд
     ur: اتراکھنڈ
     vi: Uttarakhand
+  name: Uttarakhand
