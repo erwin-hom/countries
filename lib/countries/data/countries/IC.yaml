@@ -1,0 +1,40 @@
+---
+IC:
+  continent: Europe
+  address_format: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{region}}
+    {{country}}
+  alpha2: IC
+  alpha3:
+  country_code: '34'
+  international_prefix: '00'
+  ioc: ESP
+  gec: SP
+  name: Spain - Canary Islands
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 9
+  national_prefix: None
+  number: '724'
+  region: Europe
+  subregion: Southern Europe
+  world_region: EMEA
+  un_locode: ES
+  nationality: Spanish
+  eu_member: true
+  eea_member: true
+  postal_code: true
+  unofficial_names:
+  - Canary Islands
+  - Spain (Canary Islands)
+  - Islas Canarias
+  languages_official:
+  - es
+  languages_spoken:
+  - es
+  currency_code: EUR
+  start_of_week: monday
