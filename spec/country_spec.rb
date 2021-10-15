@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 require 'spec_helper'
-NUM_OF_COUNTRIES = 249
+NUM_OF_COUNTRIES = 250
 describe ISO3166::Country do
   before { ISO3166.configuration.enable_currency_extension! }
   let(:country) { ISO3166::Country.search('US') }
@@ -320,6 +320,7 @@ describe ISO3166::Country do
   describe 'all_translated' do
     it 'should return an alphabetized list of all country names translated to the selected locale' do
       countries = ISO3166::Country.all_translated('fr')
+      puts countries
       expect(countries).to be_an(Array)
       expect(countries.first).to be_a(String)
       expect(countries.first).to eq('Afghanistan')
@@ -511,7 +512,7 @@ describe ISO3166::Country do
     it 'casts the given value to a string to perform the search' do
       spain_data = ISO3166::Country.find_all_by(:country_code, 34)
       expect(spain_data).to be_a Hash
-      expect(spain_data.keys).to eq(['ES'])
+      expect(spain_data.keys).to eq(['IC', 'ES'])
     end
 
     it 'also performs searches with regexps and forces it to ignore case' do
